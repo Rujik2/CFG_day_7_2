@@ -1,0 +1,2 @@
+﻿
+print("Something different")
